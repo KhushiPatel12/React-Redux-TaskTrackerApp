@@ -1,3 +1,3 @@
-# Task-Tracker-App
-- Created Task-Tracker by implementing useEffect and React Router
-- CodeSandbox URL :- https://codesandbox.io/s/github/KhushiPatel12/Task-Tracker-App
+# React-Redux-Task-Tracker-App
+- Created Task-Tracker by implementing Redux to manage the state of the app.
+- CodeSandbox URL :- https://codesandbox.io/s/github/KhushiPatel12/React-Redux-TaskTrackerApp
